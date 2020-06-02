@@ -1,10 +1,10 @@
 {
   "name": "merntaskservidor",
   "version": "1.0.0",
-  "description": "",
+  "description": "MERN API",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node .",
     "dev": "nodemon ."
   },
   "author": "Arony Salvador",
